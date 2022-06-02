@@ -1,5 +1,6 @@
 # 42-School-Exam-Rank-03
-Time Limit: 3 Hours 
+
+Time Limit: 3 Hours <i class="fa-solid fa-clock"></i>
 
 
 <h1>Printf Exam Rank 03 Subject Text</h1>
