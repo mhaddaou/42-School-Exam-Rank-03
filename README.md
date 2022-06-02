@@ -18,14 +18,11 @@ int ft_printf(const char *, ... );
 
 Examples of the function output:
 
-call: ft_printf("%s\n", "toto");
-out: toto$
+call: ft_printf("%s\n", "toto");<br>out: toto$
 
-call: ft_printf("Magic %s is %d", "number", 42);
-out: Magic number is 42%
+call: ft_printf("Magic %s is %d", "number", 42);<br>out: Magic number is 42%
 
-call: ft_printf("Hexadecimal for %d is %x\n", 42, 42);
-out: Hexadecimal for 42 is 2a$
+call: ft_printf("Hexadecimal for %d is %x\n", 42, 42);<br>out: Hexadecimal for 42 is 2a$
 
 <br>
 <h1> Get_Next_Line Exam Rank 03 Subject Text </h1>
